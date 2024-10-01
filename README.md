@@ -24,3 +24,6 @@ You can install the required libraries using pip:
 
 ```bash
 pip install beautifulsoup4 requests pandas numpy
+
+## License
+This project is licensed under the MIT License. Note that it is part of the IBM Data Engineer Professional Certificate program, and original materials may have their own licensing restrictions.
